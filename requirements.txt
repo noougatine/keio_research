@@ -1,0 +1,9 @@
+numpy==1.21.3
+matplotlib
+sklearn
+tensorflow
+keras
+seaborn
+scipy
+hrvanalysis
+neurokit2
